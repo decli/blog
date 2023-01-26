@@ -1,4 +1,5 @@
 使用 windows 移动热点与 clash TUN 全局共享 clash vpn
+===========================================================
 
 问题描述
 为了科学上网，电脑使用了Clash For Windows，并开启了TUN模式。
@@ -14,3 +15,23 @@
 3、进入系统网络设置，在 Clash 网卡右键选择属性，选择共享标签页
 4、勾选“允许其他网络用户通过此计算机的 Internet 连接来连接”
 5、在“家庭网络连接”选择框中选择第 1 步生成的网卡
+
+
+=========
+Refer
+=========
+
+CFW TUN 模式 移动热点冲突 - Leey's
+https://blog.leey.tech/2022/04/20/cfw-tun-hotspot.html
+
+Clash for Windows使用使用TUN模式设置全局代理使用方法 - 独木舟
+https://dumuzhou.org/1083.html
+
+Clash for Windows教程：配置TUN/TAP虚拟网卡，Clash订阅持续更新 – 优质盒子
+https://uzbox.com/tech/clash-atp.html
+
+clash for windows允许局域网连接，TAP和TUN模式 - 旁逸斜出
+https://www.mihu.live/archives/208/
+
+TUN 模式 | Clash for Windows
+https://docs.cfw.lbyczf.com/contents/tun.html#windows
